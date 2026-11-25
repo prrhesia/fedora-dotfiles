@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/install.py
+!/config/
+!/config/niri/
+!/config/niri/config.kdl
+!/config/alacritty/
+!/config/alacritty/alacritty.toml
